@@ -1,0 +1,53 @@
+{
+  "name": "frontregister",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.7.14",
+    "@heroicons/react": "^2.0.17",
+    "@react-oauth/google": "^0.11.0",
+    "@reduxjs/toolkit": "^1.9.5",
+    "@tailwindcss/forms": "^0.5.3",
+    "@types/node": "20.3.3",
+    "@types/react": "18.2.14",
+    "@types/react-dom": "18.2.6",
+    "apexcharts": "^3.41.0",
+    "axios": "^1.4.0",
+    "chart.js": "^4.3.0",
+    "dotenv": "^16.3.1",
+    "eslint": "8.44.0",
+    "eslint-config-next": "13.4.7",
+    "formik": "^2.4.2",
+    "heroicons-react": "^1.4.1",
+    "next": "13.4.7",
+    "next-auth": "^4.22.1",
+    "nextjs-progressbar": "^0.0.16",
+    "primeicons": "^6.0.1",
+    "primereact": "^9.6.0",
+    "react": "18.2.0",
+    "react-apexcharts": "^1.4.0",
+    "react-dom": "18.2.0",
+    "react-google-button": "^0.7.2",
+    "react-hook-form": "^7.43.9",
+    "react-hot-toast": "^2.4.1",
+    "react-loader-spinner": "^5.3.4",
+    "react-redux": "^8.0.7",
+    "redux": "^4.2.1",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-thunk": "^2.4.2",
+    "sass": "^1.63.6",
+    "typescript": "5.1.6",
+    "yup": "^1.2.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.3.2"
+  }
+}
